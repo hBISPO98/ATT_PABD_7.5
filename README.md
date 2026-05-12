@@ -1,2 +1,2 @@
 # Funções e Procedimentos
-### Implementação da função _histogram_ para descobrir a frequência de salário dos professores
+###Criação do procedimento _salaryHistogram_ para agrupar salários em intervalos dinâmicos e contar a frequência de instrutores em cada faixa salarial.
